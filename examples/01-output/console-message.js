@@ -1,0 +1,1 @@
+console.log("Olá! Seja bem-vindo ao curso de JavaScript.");
