@@ -13,7 +13,7 @@
 <br>
 <div align="center">
     <a href="https://github.com/arturbomtempo-dev/javascript-youtube-course" target="_blank">
-        <img src="https://img.shields.io/badge/linguagens-JavaScript-yellow" alt="Linguagens: C & Java">
+        <img src="https://img.shields.io/badge/linguagens-JavaScript-yellow" alt="Linguagens: JavaScript">
     </a>
     <a href="https://github.com/arturbomtempo-dev/javascript-youtube-course" target="_blank">
         <img src="https://img.shields.io/badge/versão-1.0.0-blue" alt="Versão: 1.0.0">
