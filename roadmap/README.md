@@ -6,10 +6,10 @@
 
 ### Aula 0 – Introdução e ambiente
 
-- [ ] O que é programação?
-- [ ] O que é JavaScript?
-- [ ] Como executar JS (browser + console + Node + VS Code)
-- [ ] console.log(), comentários
+- [x] O que é programação?
+- [x] O que é JavaScript?
+- [x] Como executar JS (browser + console + Node + VS Code)
+- [x] console.log(), comentários
 
 ### Aula 1 – Entrada e saída de Dados
 
