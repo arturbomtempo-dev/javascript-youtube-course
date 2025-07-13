@@ -13,8 +13,8 @@
 
 ### Aula 1 – Entrada e saída de Dados
 
-- [ ] Saída de dados (alert, console.log)
-- [ ] Entrada de dados (prompt, input do HTML e confirm)
+- [x] Saída de dados (alert, console.log)
+- [x] Entrada de dados (prompt, input do HTML e confirm)
 
 ### Aula 2 – Variáveis e Tipos de Dados
 
