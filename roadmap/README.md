@@ -18,9 +18,9 @@
 
 ### Aula 2 – Variáveis e Tipos de Dados
 
-- [ ] let, const, var (diferenças)
-- [ ] Tipos primitivos: number, string, boolean, null, undefined
-- [ ] Template strings
+- [x] let, const, var (diferenças)
+- [x] Tipos primitivos: number, string, boolean, null, undefined
+- [x] Template strings
 
 ### Aula 3 – Operadores e Expressões
 
