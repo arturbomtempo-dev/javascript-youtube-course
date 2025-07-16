@@ -20,7 +20,7 @@ document.getElementById('addTaskBtn').addEventListener('click', () => {
 document.getElementById('loadTasksBtn').addEventListener('click', () => {
     taskList.innerHTML = "";
     const tasks = JSON.parse(localStorage.getItem('tasks')) || [];
-    
+
     if (tasks.length === 0) {
         taskList.innerHTML = "<li>Nenhuma tarefa salva.</li>";
         return;

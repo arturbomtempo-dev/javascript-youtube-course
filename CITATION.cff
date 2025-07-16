@@ -2,20 +2,20 @@ cff-version: 1.0.0
 message: Please cite this software using these metadata.
 title: JavaScript Course
 authors:
-  - family-names: Bomtempo Colen
-    given-names: Artur
+    - family-names: Bomtempo Colen
+      given-names: Artur
 keywords:
-  - javascript
-  - lógica de programação
-  - front-end
-  - dom
-  - curso
-  - youtube
-  - programming logic
-  - front-end
-  - dom
-  - course
-  - youtube
+    - javascript
+    - lógica de programação
+    - front-end
+    - dom
+    - curso
+    - youtube
+    - programming logic
+    - front-end
+    - dom
+    - course
+    - youtube
 repository-code: https://github.com/arturbomtempo-dev/javascript-youtube-course
 license: MIT
 version: 1.0.0

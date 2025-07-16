@@ -38,21 +38,21 @@
 
 ## 📋 Tabela de conteúdos
 
-- [Sobre](#about)
-- [Tabela de conteúdos](#table-of-contents)
-- [O que você encontrará neste repositório](#features)
-- [Configuração e Execução da Aplicação](#setup-and-run-the-application)
-- [Tecnologias](#technologies)
-- [Autor](#author)
-- [Licença](#license)
+-   [Sobre](#about)
+-   [Tabela de conteúdos](#table-of-contents)
+-   [O que você encontrará neste repositório](#features)
+-   [Configuração e Execução da Aplicação](#setup-and-run-the-application)
+-   [Tecnologias](#technologies)
+-   [Autor](#author)
+-   [Licença](#license)
 
 <div id="features"></div>
 
 ## 📝 O que você encontrará neste repositório
 
-- [x] Exemplos de código explicados passo a passo nas aulas do curso
-- [x] Sugestões de exercícios para praticar os conceitos aprendidos
-- [x] Códigos dos projetos desenvolvidos ao longo do curso
+-   [x] Exemplos de código explicados passo a passo nas aulas do curso
+-   [x] Sugestões de exercícios para praticar os conceitos aprendidos
+-   [x] Códigos dos projetos desenvolvidos ao longo do curso
 
 <div id="setup-and-run-the-application"></div>
 
@@ -64,9 +64,9 @@ Os exemplos deste curso utilizam **JavaScript puro**, muitas vezes em conjunto c
 
 Embora não seja obrigatório, é recomendado que você tenha:
 
-- Um **navegador moderno** (Google Chrome, Firefox, Edge, etc.)
-- Um editor de código como o [Visual Studio Code](https://code.visualstudio.com/)
-- Opcionalmente, uma extensão como **Live Server** para facilitar a execução de arquivos HTML localmente
+-   Um **navegador moderno** (Google Chrome, Firefox, Edge, etc.)
+-   Um editor de código como o [Visual Studio Code](https://code.visualstudio.com/)
+-   Opcionalmente, uma extensão como **Live Server** para facilitar a execução de arquivos HTML localmente
 
 ---
 
@@ -87,29 +87,29 @@ Embora não seja obrigatório, é recomendado que você tenha:
 
 1. Crie uma pasta e dentro dela, dois arquivos:
 
-   - `index.html`
-   - `script.js`
+    - `index.html`
+    - `script.js`
 
 2. No `index.html`, adicione:
 
 ```html
 <!DOCTYPE html>
 <html lang="pt-BR">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Meu Projeto JS</title>
-  </head>
-  <body>
-    <h1>Hello, JavaScript!</h1>
-    <script src="script.js"></script>
-  </body>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Meu Projeto JS</title>
+    </head>
+    <body>
+        <h1>Hello, JavaScript!</h1>
+        <script src="script.js"></script>
+    </body>
 </html>
 ```
 
 3. No script.js, escreva seu código JavaScript normalmente:
 
 ```js
-console.log("Olá, mundo!");
+console.log('Olá, mundo!');
 ```
 
 4. Abra o index.html no navegador (clique duas vezes ou use um servidor como o Live Server)
@@ -118,10 +118,10 @@ console.log("Olá, mundo!");
 
 Você também pode usar plataformas online para testar seus códigos sem precisar instalar nada:
 
-- [JSFiddle](https://jsfiddle.net/)
-- [CodePen](https://codepen.io/)
-- [PlayCode](https://playcode.io/)
-- [Replit](https://replit.com/)
+-   [JSFiddle](https://jsfiddle.net/)
+-   [CodePen](https://codepen.io/)
+-   [PlayCode](https://playcode.io/)
+-   [Replit](https://replit.com/)
 
 Essas ferramentas permitem escrever **HTML**, **CSS** e **JavaScript** e visualizar o resultado em tempo real, sendo ideais para praticar os exemplos do curso.
 
@@ -131,9 +131,9 @@ Essas ferramentas permitem escrever **HTML**, **CSS** e **JavaScript** e visuali
 
 As seguintes linguagens e tecnologias foram utilizadas no desenvolvimento dos exemplos e projetos deste curso:
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML): Linguagem de marcação utilizada para estruturar o conteúdo das páginas web.
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): Linguagem de estilos responsável pela aparência e layout das páginas, tornando-as visualmente atraentes e responsivas.
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript): Linguagem de programação que adiciona interatividade e lógica às páginas web, sendo a base para os exemplos e projetos do curso.
+-   [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML): Linguagem de marcação utilizada para estruturar o conteúdo das páginas web.
+-   [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): Linguagem de estilos responsável pela aparência e layout das páginas, tornando-as visualmente atraentes e responsivas.
+-   [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript): Linguagem de programação que adiciona interatividade e lógica às páginas web, sendo a base para os exemplos e projetos do curso.
 
 <div id="author"></div>
 

@@ -6,44 +6,44 @@
 
 ### Aula 0 – Introdução e ambiente
 
-- [x] O que é programação?
-- [x] O que é JavaScript?
-- [x] Como executar JS (browser + console + Node + VS Code)
-- [x] console.log(), comentários
+-   [x] O que é programação?
+-   [x] O que é JavaScript?
+-   [x] Como executar JS (browser + console + Node + VS Code)
+-   [x] console.log(), comentários
 
 ### Aula 1 – Entrada e saída de Dados
 
-- [x] Saída de dados (alert, console.log)
-- [x] Entrada de dados (prompt, input do HTML e confirm)
+-   [x] Saída de dados (alert, console.log)
+-   [x] Entrada de dados (prompt, input do HTML e confirm)
 
 ### Aula 2 – Variáveis e Tipos de Dados
 
-- [x] let, const, var (diferenças)
-- [x] Tipos primitivos: number, string, boolean, null, undefined
-- [x] Template strings
+-   [x] let, const, var (diferenças)
+-   [x] Tipos primitivos: number, string, boolean, null, undefined
+-   [x] Template strings
 
 ### Aula 3 – Operadores e Expressões
 
-- [ ] Aritméticos, lógicos, comparação
-- [ ] Precedência de operadores
+-   [ ] Aritméticos, lógicos, comparação
+-   [ ] Precedência de operadores
 
 ### Aula 4 – Condicionais
 
-- [ ] if, else, else if
-- [ ] Operador ternário
-- [ ] Switch-case
+-   [ ] if, else, else if
+-   [ ] Operador ternário
+-   [ ] Switch-case
 
 ### Aula 5 – Estruturas de Repetição
 
-- [ ] for
-- [ ] while
-- [ ] do-while
+-   [ ] for
+-   [ ] while
+-   [ ] do-while
 
 ### Aula 6 – Funções
 
-- [ ] Declaração de função (function)
-- [ ] Parâmetros e retorno
-- [ ] Arrow functions básicas
+-   [ ] Declaração de função (function)
+-   [ ] Parâmetros e retorno
+-   [ ] Arrow functions básicas
 
 ---
 
@@ -53,23 +53,23 @@
 
 ### Aula 7 – Arrays (Vetores)
 
-- [ ] Criar, acessar e modificar elementos
-- [ ] Métodos: push, pop, shift, unshift, length
+-   [ ] Criar, acessar e modificar elementos
+-   [ ] Métodos: push, pop, shift, unshift, length
 
 ### Aula 8 – Objetos
 
-- [ ] Criar e acessar propriedades
-- [ ] Diferença entre objeto e array
-- [ ] Nesting (objeto dentro de objeto/array)
+-   [ ] Criar e acessar propriedades
+-   [ ] Diferença entre objeto e array
+-   [ ] Nesting (objeto dentro de objeto/array)
 
 ### Aula 9 – Métodos de Arrays
 
-- [ ] forEach, map, filter, reduce
+-   [ ] forEach, map, filter, reduce
 
 ### Aula 10 – Funções de Alta Ordem e Callbacks
 
-- [ ] O que é uma função de alta ordem
-- [ ] Introdução ao callback
+-   [ ] O que é uma função de alta ordem
+-   [ ] Introdução ao callback
 
 ---
 
@@ -79,18 +79,18 @@
 
 ### Aula 11 – Introdução à DOM
 
-- [ ] document.getElementById, querySelector
-- [ ] innerText, value, textContent
+-   [ ] document.getElementById, querySelector
+-   [ ] innerText, value, textContent
 
 ### Aula 12 – Eventos
 
-- [ ] onclick, addEventListener
-- [ ] Escopo e contexto
+-   [ ] onclick, addEventListener
+-   [ ] Escopo e contexto
 
 ### Aula 13 – Criando a calculadora
 
-- [ ] Layout simples com HTML + CSS
-- [ ] Lógica JS para operadores e exibição de resultado
+-   [ ] Layout simples com HTML + CSS
+-   [ ] Lógica JS para operadores e exibição de resultado
 
 ---
 
@@ -100,17 +100,17 @@
 
 ### Aula 14 – Planejamento do jogo
 
-- [ ] Lógica por trás do jogo (tabuleiro, vitória, empate)
+-   [ ] Lógica por trás do jogo (tabuleiro, vitória, empate)
 
 ### Aula 15 – Manipulando o tabuleiro via DOM
 
-- [ ] Eventos em cada célula
-- [ ] Atualização de estado (array + DOM)
+-   [ ] Eventos em cada célula
+-   [ ] Atualização de estado (array + DOM)
 
 ### Aula 16 – Verificando vencedor
 
-- [ ] Função de verificação de linhas, colunas, diagonais
-- [ ] Mensagem final e reset
+-   [ ] Função de verificação de linhas, colunas, diagonais
+-   [ ] Mensagem final e reset
 
 ---
 
@@ -120,19 +120,19 @@
 
 ### Aula 17 – Introdução a JSON
 
-- [ ] O que é JSON
-- [ ] Conversão: JSON.stringify e JSON.parse
+-   [ ] O que é JSON
+-   [ ] Conversão: JSON.stringify e JSON.parse
 
 ### Aula 18 – Fetch API
 
-- [ ] fetch(), .then(), .catch()
-- [ ] Entendendo promessas
-- [ ] Exibir dados em tela
+-   [ ] fetch(), .then(), .catch()
+-   [ ] Entendendo promessas
+-   [ ] Exibir dados em tela
 
 ### Aula 19 – Async/Await
 
-- [ ] Reescrevendo fetch com async/await
-- [ ] Tratamento de erro
+-   [ ] Reescrevendo fetch com async/await
+-   [ ] Tratamento de erro
 
 ---
 
@@ -142,13 +142,13 @@
 
 ### Aula 21 – Escolha e testes da API
 
-- [ ] Exemplo: https://api.openweathermap.org/data/2.5/weather?q=${encodeURI(input)}&appid=ff8336ebe0ee55dff31a03f12f1f6731&units=metric&lang=pt_br
-- [ ] Planejamento: o que vai aparecer em tela
+-   [ ] Exemplo: https://api.openweathermap.org/data/2.5/weather?q=${encodeURI(input)}&appid=ff8336ebe0ee55dff31a03f12f1f6731&units=metric&lang=pt_br
+-   [ ] Planejamento: o que vai aparecer em tela
 
 ### Aula 22 – Conectando e exibindo dados
 
-- [ ] Requisição via Fetch
-- [ ] Renderização no HTML (DOM)
+-   [ ] Requisição via Fetch
+-   [ ] Renderização no HTML (DOM)
 
 ---
 
@@ -156,8 +156,8 @@
 
 ### Aula 23 - LocalStorage
 
-- [ ] Armazenar dados no navegador
+-   [ ] Armazenar dados no navegador
 
 ### Aula 24 – Deploy de projetos (GitHub Pages)
 
-- [ ] Como subir a calculadora ou jogo da velha online
+-   [ ] Como subir a calculadora ou jogo da velha online
