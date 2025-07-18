@@ -24,8 +24,8 @@
 
 ### Aula 3 – Operadores e Expressões
 
--   [ ] Aritméticos, lógicos, comparação
--   [ ] Precedência de operadores
+-   [x] Aritméticos, lógicos, comparação
+-   [x] Precedência de operadores
 
 ### Aula 4 – Condicionais
 
