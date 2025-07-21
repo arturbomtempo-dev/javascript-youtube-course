@@ -29,21 +29,21 @@
 
 ### Aula 4 – Condicionais
 
--   [ ] if, else, else if
--   [ ] Operador ternário
--   [ ] Switch-case
+-   [x] if, else, else if
+-   [x] Operador ternário
+-   [x] Switch-case
 
 ### Aula 5 – Estruturas de Repetição
 
--   [ ] for
--   [ ] while
--   [ ] do-while
+-   [x] for
+-   [x] while
+-   [x] do-while
 
 ### Aula 6 – Funções
 
--   [ ] Declaração de função (function)
--   [ ] Parâmetros e retorno
--   [ ] Arrow functions básicas
+-   [x] Declaração de função (function)
+-   [x] Parâmetros e retorno
+-   [x] Arrow functions básicas
 
 ---
 
