@@ -1,12 +1,12 @@
-// Função recursiva que imprime contagem até 0
-function contagemRegressiva(n) {
+function contagem(n) {
+    // Exibe o valor de n no console
     console.log(n);
-
-    // Se n ainda for maior que 0, chama novamente com n - 1
-    if (n > 0) {
-        contagemRegressiva(n - 1);
+    // Se n for igual a 0, encerra a função
+    if (n === 0) {
+        return;
     }
+    // Chama a função novamente com n - 1 (recursão)
+    contagem(n - 1);
 }
 
-// Testando a função com número 5
-contagemRegressiva(5);
+contagem(10);
