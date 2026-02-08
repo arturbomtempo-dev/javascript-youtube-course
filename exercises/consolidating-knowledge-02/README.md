@@ -179,6 +179,37 @@ Se quiser ir além, implemente também:
 
 ---
 
+#### Menu Interativo (Obrigatório)
+
+O sistema deve exibir um **menu interativo** que permite ao usuário escolher a operação desejada. O menu deve continuar aparecendo até que o usuário digite **"fim"** para encerrar o programa.
+
+Use um **laço `while`** para manter o menu ativo.
+
+Exemplo de menu:
+
+```plaintext
+=== Sistema de Gestão Escolar ===
+1. Cadastrar aluno (final)
+2. Cadastrar aluno (início)
+3. Listar alunos
+4. Buscar aluno por nome
+5. Buscar alunos por turma
+6. Atualizar aluno
+7. Remover último aluno
+8. Remover primeiro aluno
+9. Remover aluno por ID
+10. Exibir estatísticas
+11. Ordenar por nome
+12. Ordenar por idade
+13. Verificar se aluno existe
+14. Verificar idade mínima
+Digite "fim" para sair
+
+Escolha uma opção:
+```
+
+---
+
 #### Dicas
 
 - Crie o array de alunos como uma variável global no início do código.
