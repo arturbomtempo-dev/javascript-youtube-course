@@ -59,10 +59,10 @@
 
 ### Aula 8 – Objetos
 
-- [ ] Criar e acessar propriedades
-- [ ] Diferença entre objeto e array
-- [ ] Nesting (objeto dentro de objeto/array)
-- [ ] Adicionando e removendo propriedades
+- [x] Criar e acessar propriedades
+- [x] Diferença entre objeto e array
+- [x] Nesting (objeto dentro de objeto/array)
+- [x] Adicionando e removendo propriedades
 
 ### Aula 9 – Funções de Alta Ordem e Callbacks
 
