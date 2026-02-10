@@ -53,8 +53,8 @@
 
 ### Aula 7 – Arrays (Vetores)
 
--   [ ] Criar, acessar e modificar elementos
--   [ ] Métodos: push, pop, shift, unshift, length
+-   [x] Criar, acessar e modificar elementos
+-   [x] Métodos: push, pop, shift, unshift, length, etc
 
 ### Aula 8 – Objetos
 
